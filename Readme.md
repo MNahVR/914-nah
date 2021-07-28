@@ -1,6 +1,6 @@
 # Calculadora API
 
-TODO(MNahVR): Visando a manutenção do caráter prático da disciplina teremos um software-alvo(calculadora API). 
+TODO(MNahVR): Visando a manutenção do caráter prático da disciplina de GQSO, teremos um software-alvo (calculadora API), onde trabalharemos nela durante todo o ano. 
 ## Neste software devemos atender os seguintes requisitos funcionais:
 
 

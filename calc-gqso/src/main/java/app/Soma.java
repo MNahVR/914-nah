@@ -6,7 +6,6 @@ import io.jooby.exception.*;
 public class Soma{
     @Path("/soma/{x}/{y}")
     @GET
-
        public String rotaSoma(@PathParam String x, String y ) {
         try {
             Double z = Double.parseDouble(x) + Double.parseDouble(y);

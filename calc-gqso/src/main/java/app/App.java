@@ -7,7 +7,6 @@ public class App extends Jooby {
     mvc(new Controlador());
     mvc(new Soma());
   }
-
   public static void main(final String[] args) {
     runApp(args, App::new);
   }

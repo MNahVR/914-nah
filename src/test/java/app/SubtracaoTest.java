@@ -10,7 +10,7 @@ public class SubtracaoTest {
 
     @BeforeEach
     public void setup(){
-        subratacao = new Subratacao();
+        subtracao = new Subtracao();
     }
 
     @Test

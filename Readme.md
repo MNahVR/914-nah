@@ -34,3 +34,14 @@ GET /soma/1.0
 
 * Usando integração e entrega contínuas
 
+## Running
+
+```
+mvn clean jooby:run
+```
+
+## Building
+
+```
+mvn clean package
+```

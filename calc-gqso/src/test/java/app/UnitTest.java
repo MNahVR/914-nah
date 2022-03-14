@@ -8,6 +8,6 @@ public class UnitTest {
   @Test
   public void welcome() {
     Controlador controlador = new Controlador();
-    assertEquals("Welcome to Jooby!", controlador.Dizoi());
+    assertEquals("Bem-vidos(as) a API calculadora!", controlador.Dizoi());
   }
 }

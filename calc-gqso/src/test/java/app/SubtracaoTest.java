@@ -4,18 +4,18 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class SomaTest {
+public class SubtracaoTest {
 
     Soma soma;
 
     @BeforeEach
     public void setup(){
-        soma = new Soma();
+        subratacao = new Subratacao();
     }
 
     @Test
-    public void testSoma_ok(){
+    public void testSubtracao_ok(){
         
-        assertEquals(5, soma.rotaSoma(3, 2));
+        assertEquals(1, subtracao.rotaSubtracao(3, 2));
     }
 }
